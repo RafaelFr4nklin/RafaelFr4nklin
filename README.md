@@ -1,6 +1,6 @@
 ## Sobre mim 
 
-Me chamo Rafael Franklin de Farias, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio na Escola SESI de Referência, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na Católica. Sou um admirador da tecnologia e busco compreender 
+Me chamo Rafael Franklin de Farias, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio na Escola SESI de Referência, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na Católica. Sou um admirador da tecnologia e busco compreender 
 
 <p align="left">
 	<a>
